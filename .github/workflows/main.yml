@@ -23,5 +23,5 @@ jobs:
           args:
             # Unique keys of your project and organization. You can find them in SonarCloud > Information (bottom-left menu)
             # mandatory
-            -Dsonar.projectKey= IronMarken_SonarTest
-            -Dsonar.organization= ironmarken
+            -Dsonar.projectKey=IronMarken_SonarTest
+            -Dsonar.organization=ironmarken
