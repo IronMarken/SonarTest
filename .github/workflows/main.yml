@@ -25,3 +25,4 @@ jobs:
             # mandatory
             -Dsonar.projectKey=IronMarken_SonarTest
             -Dsonar.organization=ironmarken
+            -Dsonar.java.binaries=.
